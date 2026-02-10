@@ -1,0 +1,20 @@
+
+{
+  "name": "f-njadi-app",
+  "version": "1.0.0",
+  "description": "Luxurious AI-driven Facebook wrapper for Android",
+  "main": "index.html",
+  "dependencies": {
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "@google/genai": "^1.40.0",
+    "@capacitor/core": "^6.0.0",
+    "@capacitor/android": "^6.0.0",
+    "@capacitor/cli": "^6.0.0"
+  },
+  "scripts": {
+    "build": "echo 'Building Web Assets...'",
+    "sync": "npx cap sync",
+    "open:android": "npx cap open android"
+  }
+}

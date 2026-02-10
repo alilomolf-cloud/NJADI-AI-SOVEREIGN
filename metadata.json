@@ -1,0 +1,10 @@
+
+{
+  "name": "F NJADI™",
+  "description": "A luxurious AI-driven Facebook wrapper featuring a Majestic Wolf aesthetic, star-curtain AI assistant, and Algerian soul.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}

@@ -1,0 +1,10 @@
+
+{
+  "appId": "com.fnjadi.luxurious.app",
+  "appName": "F NJADI",
+  "webDir": ".",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}
